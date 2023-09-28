@@ -33,6 +33,9 @@
 - 📫 How to reach me: **On twitter @alsocalledpipe**
 
 <h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,bootstrap,tailwind,styledcomponents,git,github,nodejs,postman,vscode&perline=7" />
+</p>
 
 <!--
 **timayyy/timayyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
