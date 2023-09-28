@@ -34,8 +34,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,bootstrap,tailwind,styledcomponents,git,github,nodejs,postman,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,bootstrap,tailwind,styledcomponents,git,github,nodejs,postman,vscode&perline=5" />
 </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=timayyy&show_icons=true&locale=en&layout=compact" alt="timayyy" /></p>
 
 <!--
 **timayyy/timayyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
