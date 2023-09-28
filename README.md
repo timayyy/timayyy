@@ -34,7 +34,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,bootstrap,tailwind,styledcomponents,git,github,nodejs,postman,vscode&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,styledcomponents,git,github,nodejs,jest,postman,vscode&perline=5" />
 </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=timayyy&show_icons=true&locale=en&layout=compact" alt="timayyy" /></p>
