@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sriracha&size=36&duration=3500&color=ffff&center=true&width=500&lines=My+name+is+Timilehin+Oladejo!;Front-end+engineer;" alt="Timilehin Oladejo, front-end engineer"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sriracha&size=36&duration=4500&color=ffff&center=true&width=500&lines=My+name+is+Timilehin+Oladejo!;Front-end+Engineer;" alt="Timilehin Oladejo, front-end Engineer"></a>
 </div>
 <!--
 <p align="center">
