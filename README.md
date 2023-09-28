@@ -24,6 +24,16 @@
     </a>
 </p>
 
+- 🎥 I’m currently building: **Coachli**
+
+- 🌱 I’m currently learning: **Nodejs , AI tools**
+
+- 💬 Ask me about **React, Next, JavaScript**
+
+- 📫 How to reach me: **On twitter @alsocalledpipe**
+
+<h3 align="left">Languages and Tools:</h3>
+
 <!--
 **timayyy/timayyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
