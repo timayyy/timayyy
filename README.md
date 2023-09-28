@@ -8,7 +8,21 @@
 </p>
 -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=timayyy&label=Profile%20views&color=0e75b6&style=flat" alt="timayyy" /> </p>
+<p align="left">  </p>
+<p align="center">
+    <a href="#">
+        <img src="https://komarev.com/ghpvc/?username=timayyy&label=Profile%20views&color=0e75b6&style=flat" alt="timayyy" />
+    </a>
+    <a href="https://www.linkedin.com/in/timilehin-oladejo-42163b1aa/">
+        <img src="https://img.shields.io/badge/%20-TimilehinOladejo-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff" />
+    </a>
+    <a href="https://twitter.com/alsocalledpipe">
+        <img src="https://img.shields.io/badge/%20-@alsocalledpipe-black?color=14171A&labelColor=00acee&logo=twitter&logoColor=ffffff">
+    </a>
+    <a href="mailto:timilehin65@gmail.com">
+        <img src="https://img.shields.io/badge/%20-timilehin65@gmail.com-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=ffffff" />
+    </a>
+</p>
 
 <!--
 **timayyy/timayyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
