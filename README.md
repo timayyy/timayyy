@@ -2,10 +2,13 @@
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sriracha&size=36&duration=3500&color=ffff&center=true&width=500&lines=My+name+is+Timilehin+Oladejo!;Front-end+engineer;" alt="Timilehin Oladejo, front-end engineer"></a>
 </div>
-
+<!--
 <p align="center">
   <img src="https://github.com/timayyy/timayyy/blob/main/my-octocat.png" alt="my octocat" />
 </p>
+-->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=timayyy&label=Profile%20views&color=0e75b6&style=flat" alt="timayyy" /> </p>
 
 <!--
 **timayyy/timayyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
