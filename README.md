@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/timayyy/timayyy/blob/75b87390c4d4433241d5f36bf5ffa3977da176f3/octocat.gif" alt="my octocat" />
+  <img src="https://github.com/timayyy/timayyy/blob/main/my-octocat.png" alt="my octocat" />
 </p>
 
 <!--
